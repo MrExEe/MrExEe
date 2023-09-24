@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Hey, I'm ExxE!<img src="https://media.giphy.com/media/108JHWB1hruZnq/giphy.gif" width="60px"></h1></p>
+<h1 align="center"> Hey, I'm ExxE!<img src="https://media.giphy.com/media/108JHWB1hruZnq/giphy.gif" width="60px"></h1>
 
 <div align="center">
 
