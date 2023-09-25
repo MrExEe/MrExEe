@@ -4,7 +4,7 @@
 
 <h3 > 🙍‍♂️About me: </h3>
 
-<p>Currently, I'm a higher vocational training degree in Multi-Platform Application Development student and an enthusiastic and interested in everything related to new AIs. </p>
+<p>Currently, I'm a higher vocational training degree in Cross-Platform Application Development student and an enthusiastic and interested in everything related to new AIs. </p>
 <p>Kotlin enjoyer too! </p>
 
 <br>
