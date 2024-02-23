@@ -8,9 +8,6 @@
 
 <br>
 
-
-
-[![Linkedin: ExxE](https://img.shields.io/badge/ExxE-blue?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/miguel-morote-blesa-16293a291/) 
 [![GitHub: MrExEe](https://img.shields.io/github/followers/MrExEe?label=follow&style=social)](https://github.com/MrExEe) 
 
 <hr>
